@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="next">Next</string>
+    <string name="old_question">You are old</string>
+    <string name="paradox_question">This paradox is not paradoxical</string>
+    <string name="wood_chuck_question">A wood chuck could chuck wood if it could chuck as much wood as a wood chuck could chuck</string>
+    <string name="sky_question">The sky is blue</string>
+    <string name="common_question">These three words have something in common: air, hello, beluga</string>
+    <string name="sound_question">Top teeth to bottom lip, open, tongue tip, small space</string>
+    <string name="window_question">Window = C + 1</string>
+</resources>
