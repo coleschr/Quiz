@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="apple_raven_question">La manzana es verde; el cuervo es negro. Porque la manzana es verde, todos los cuervos son negros.</string>
+    <string name="birthday_question">En un cuarto con veintitrés personas, la probabilidad es cincuenta por ciento que dós o más tienen el mismo cumpleaños</string>
+    <string name="bliss_question">Felicidad eterna es mejor que un pan simple</string>
+    <string name="button_question">El próximo botón que usted presionará será falso</string>
+    <string name="false_text">Falso</string>
+    <string name="next">Próximo</string>
+    <string name="common_question">Estas palabras tienen algo en común: oxígeno, hola, beluga</string>
+    <string name="give_question">Es posible que dé que no tiene</string>
+    <string name="heap_question">Un grano de arena dejó el montón; todavía es un montón</string>
+    <string name="old_question">Está viejo</string>
+    <string name="paradox_question">Esta paradoja no es paradójico</string>
+    <string name="question_question">Esta pregunta es falso</string>
+    <string name="ship_question">Un barco con todos nuevos partes todavía es el mismo barco</string>
+    <string name="sky_question">El cielo es azul</string>
+    <string name="sound_question">Los dientes superiores al labio inferior, abierto, la extremidad de la lengüeta, el espacio pequeño</string>
+    <string name="true_text">Cierto</string>
+    <string name="window_question">La ventana = C + 1</string>
+    <string name="tolerance_question">Tolerancia absoluta requiere la intolerancia</string>
+    <string name="wood_chuck_question">Una marmota comería árboles si podería comer tantos árboles como una marmota comiera</string>
+</resources>

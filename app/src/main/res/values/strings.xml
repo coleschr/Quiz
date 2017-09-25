@@ -5,9 +5,18 @@
     <string name="next">Next</string>
     <string name="old_question">You are old</string>
     <string name="paradox_question">This paradox is not paradoxical</string>
-    <string name="wood_chuck_question">A wood chuck could chuck wood if it could chuck as much wood as a wood chuck could chuck</string>
+    <string name="wood_chuck_question">A woodchuck would chuck wood if it could chuck as much wood as a woodchuck could chuck</string>
     <string name="sky_question">The sky is blue</string>
     <string name="common_question">These three words have something in common: air, hello, beluga</string>
     <string name="sound_question">Top teeth to bottom lip, open, tongue tip, small space</string>
     <string name="window_question">Window = C + 1</string>
+    <string name="apple_raven_question">The apple is green; the raven is black. Because the apple is green, all ravens are black.</string>
+    <string name="question_question">This question is false</string>
+    <string name="ship_question">A ship with all new parts is still the same ship</string>
+    <string name="tolerance_question">Absolute tolerance requires intolerance</string>
+    <string name="heap_question">A grain of sand is taken from the heap; it is still a heap</string>
+    <string name="birthday_question">In a room with 23 people, there is a 50% chance that 2+ have the same birthday</string>
+    <string name="give_question">It is possible to give that which you do not have</string>
+    <string name="bliss_question">Eternal bliss is better than a simple bread</string>
+    <string name="button_question">The next button you will click will be false</string>
 </resources>

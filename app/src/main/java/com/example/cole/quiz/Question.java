@@ -13,10 +13,16 @@ public class Question {
         this.answer = answer;
     }
 
+    /**
+     * @return string of text for the question
+     */
     public String getQuestionText() {
         return questionText;
     }
 
+    /**
+     * @return true if answer is true, and false if answer is false
+     */
     public boolean isAnswer() {
         return answer;
     }
